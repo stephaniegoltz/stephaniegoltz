@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub!<br><br>This is where I build and share projects I’m working on—ranging from web apps to collaborative builds and experiments with new ideas.<br><br>I mainly work with Java and Python, and I enjoy designing features, solving problems, and turning ideas into working applications. Some of my work includes team-based projects and ongoing builds where I contribute to both development and overall system design.<br><br>I’m always iterating, learning new tools, and improving how I build things.
+Welcome to my GitHub!<br><br>This is where I build and share projects I’m working on, from web apps to collaborative builds and experiments with new ideas.<br><br>I mainly work with Java and Python, and I enjoy designing features, solving problems, and turning ideas into working products. Some of my work includes team projects and ongoing builds where I contribute to both development and overall system design.<br><br>I’m always iterating, learning new tools, and improving how I build things.
 
 
 # 💫 Socials:
